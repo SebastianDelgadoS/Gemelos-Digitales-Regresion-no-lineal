@@ -1,5 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SebastianDelgadoS/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-C20212281_DelgadoSoto)
-# Gemelos Digitales. Práctica 1: Leyes de crecimiento exponencial [DelgadoC20212281]
+# Gemelos Digitales. Práctica 3: Regresion no lineal [DelgadoC20212281]
 
 ## Autor
 Delgado Soto Jose Sebastian
@@ -7,13 +7,16 @@ Delgado Soto Jose Sebastian
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l20212281@tectijuana.edu.mx
 
 ## Resumen de la práctica
-En esta práctica se implementarán los métodos de Euler y Heun para la solución de ecuaciones diferenciales ordinarias de primer orden, evaluando su precisión en distintos escenarios. Posteriormente, se calculará la tasa de decrecimiento biológico a partir del tiempo de vida media, permitiendo estimar la dinámica de diversos procesos fisiológicos. Asimismo, se ajustará la ecuación de farmacocinética de primer orden utilizando algoritmos de regresión no lineal, con el objetivo de estimar las tasas de liberación de fármacos por nanohidrogeles. Finalmente, se diseñarán protocolos de quimioterapia basados en modelos matemáticos para ilustrar la concentración del imatinib en el compartimento sanguíneo, considerando su absorción tras la ingesta oral. Esta práctica integra herramientas computacionales y matemáticas clave para el modelizado de fenómenos biológicos, contribuyendo al desarrollo de estrategias terapéuticas personalizadas.
+
+En esta práctica se aplicarán algoritmos de regresión no lineal para ajustar datos experimentales a modelos de crecimiento sigmoidal. Se analizarán distintas leyes de crecimiento, como la ley logística, la ley fractal alométrica, la ley alométrica esférica y las variantes del modelo de Gompertz. A partir de estos modelos, se estimará la tasa de crecimiento kkk en cada caso, evaluando su precisión mediante parámetros estadísticos como el coeficiente de determinación  y el criterio de información de Akaike corregido (AIC).
+Se utilizarán datos simulados para ajustar los modelos y visualizar la concordancia entre los valores observados y los valores estimados. Además, se explorarán las aplicaciones de estos modelos en el ámbito biomédico, destacando su utilidad en el análisis del crecimiento celular y otros fenómenos biológicos.
 
 ## Objetivos específicos
-1. Aplicar los métodos de Euler y Heun para la solución de Ecuaciones Diferenciales Ordinarias de primer orden lineales e invariantes en el tiempo.
-2. Calcular las tasas de crecimiento, degradación a partir del tiempo de vida medio biológico.
-3. Ajusta la Ecuación de farmacocinética de primer orden mediante algoritmos de regresión no lineal para la estimación de tasas de liberación de fármaco por nanohidrogeles.
-4. Diseñar protocolos de quimioterapia basados en modelos para ilustrar la dinámica del imatinib en el compartimento sanguíneo cuando se ingiere una dosis de 300 mg/día de este fármaco.
+1. Aplicar modelos de crecimiento sigmoidal para describir la dinámica de sistemas biológicos.
+2. Estimar la tasa de crecimiento kkk en diferentes modelos a partir de datos experimentales.
+3. Evaluar la precisión de los modelos mediante coeficientes estadísticos como R2R^2R2 y AIC.
+4. Comparar distintas leyes de crecimiento, como la logística, alométrica y Gompertz, para determinar su aplicabilidad en fenómenos biomédicos.
+5. Utilizar algoritmos de regresión no lineal para ajustar datos experimentales y mejorar la representación matemática del crecimiento celular.
 
 ## Docente
 Dr. Paul A. Valle
@@ -23,4 +26,3 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 ## Lecturas
 [1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
 
-[2] González‐Ayón, M. A., Sañudo‐Barajas, J. A., Picos‐Corrales, L. A., & Licea‐Claverie, A. (2015). PNVCL‐PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5‐fluorouracil. Journal of Polymer Science Part A: Polymer Chemistry, 53(22), 2662-2672. doi: https://doi.org/10.1002/pola.27766
