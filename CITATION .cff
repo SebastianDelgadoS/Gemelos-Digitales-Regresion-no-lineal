@@ -8,14 +8,14 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Andres Martin
-    family-names: Bañuelos Elias
-    email: L21212142@tectijuana.edu.mx
+  - given-names: Jose Sebastian
+    family-names: Delgado Soto
+    email: L20212281@tectijuana.edu.mx
     affiliation: 'Tecnológico Nacional de México '
 identifiers:
   - type: url
     value: >-
-      https://github.com/IamJrbe/GemelosDigitales-Practica3-RegresionNoLineal-21212142_-Banuelos-#
+    https://github.com/SebastianDelgadoS/Gemelos-Digitales-Regresion-no-lineal.git
     description: Práctica 3_Regresión No Lineal
 abstract: |2-
    Tecnologico Nacional de México 
