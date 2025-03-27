@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andres Martin
+    family-names: Bañuelos Elias
+    email: L21212142@tectijuana.edu.mx
+    affiliation: 'Tecnológico Nacional de México '
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/IamJrbe/GemelosDigitales-Practica3-RegresionNoLineal-21212142_-Banuelos-#
+    description: Práctica 3_Regresión No Lineal
+abstract: |2-
+   Tecnologico Nacional de México 
+   Instituto Tecnologico de Tijuana
+   Ingeniería Biomédica 
+   Gemelos Digitales
+   Práctica 3- Regresión no lineal
+keywords:
+  - Logistic
+  - Allometric
+  - Gompertz
+  - Nonlinear Regression
+  - Growth Law
+license: BSD-2-Clause
