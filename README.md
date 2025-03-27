@@ -8,7 +8,7 @@ Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, T
 
 ## Resumen de la práctica
 
-En esta práctica se aplicarán algoritmos de regresión no lineal para ajustar datos experimentales a modelos de crecimiento sigmoidal. Se analizarán distintas leyes de crecimiento, como la ley logística, la ley fractal alométrica, la ley alométrica esférica y las variantes del modelo de Gompertz. A partir de estos modelos, se estimará la tasa de crecimiento kkk en cada caso, evaluando su precisión mediante parámetros estadísticos como el coeficiente de determinación  y el criterio de información de Akaike corregido (AIC).
+En esta práctica se aplicarán algoritmos de regresión no lineal para ajustar datos experimentales a modelos de crecimiento sigmoidal. Se analizarán distintas leyes de crecimiento, como la ley logística, la ley fractal alométrica, la ley alométrica esférica y las variantes del modelo de Gompertz. A partir de estos modelos, se estimará la tasa de crecimiento k en cada caso, evaluando su precisión mediante parámetros estadísticos como el coeficiente de determinación  y el criterio de información de Akaike corregido (AIC).
 Se utilizarán datos simulados para ajustar los modelos y visualizar la concordancia entre los valores observados y los valores estimados. Además, se explorarán las aplicaciones de estos modelos en el ámbito biomédico, destacando su utilidad en el análisis del crecimiento celular y otros fenómenos biológicos.
 
 ## Objetivos específicos
