@@ -13,10 +13,9 @@ Se utilizarán datos simulados para ajustar los modelos y visualizar la concorda
 
 ## Objetivos específicos
 1. Aplicar modelos de crecimiento sigmoidal para describir la dinámica de sistemas biológicos.
-2. Estimar la tasa de crecimiento kkk en diferentes modelos a partir de datos experimentales.
-3. Evaluar la precisión de los modelos mediante coeficientes estadísticos como R2R^2R2 y AIC.
-4. Comparar distintas leyes de crecimiento, como la logística, alométrica y Gompertz, para determinar su aplicabilidad en fenómenos biomédicos.
-5. Utilizar algoritmos de regresión no lineal para ajustar datos experimentales y mejorar la representación matemática del crecimiento celular.
+2. Estimar la tasa de crecimiento k en diferentes modelos a partir de datos experimentales.
+3. Comparar distintas leyes de crecimiento, como la logística, alométrica y Gompertz, para determinar su aplicabilidad en fenómenos biomédicos.
+4. Utilizar algoritmos de regresión no lineal para ajustar datos experimentales y mejorar la representación matemática del crecimiento celular.
 
 ## Docente
 Dr. Paul A. Valle
