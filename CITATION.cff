@@ -14,18 +14,18 @@ authors:
     given-names: Jose Sebastian
     affiliation: Tecnologico Nacional de Mexico
 repository-code: >-
-  https://github.com/SebastianDelgadoS/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-C20212281_DelgadoSoto
+ https://github.com/SebastianDelgadoS/Gemelos-Digitales-Regresion-no-lineal
 abstract: |-
   Tecnologico Nacional de Mexico
   Instituto Tecnologico de Tijuana
   Ingenieria Biomédica
   Gemelos Digitales
-  Practica 1-Leyes de Crecimiento Exponencial
+  Práctica 3- Regresión no lineal
 keywords:
-  - Ley de crecimiento exponencial
-  - Metodo de Heun
-  - Nanohidrogeles
-  - Tasas de liberacion de farmacos
-  - Farmaco Cinetica
-  - Protocolo basado en modelos
+ - Logistic
+  - Allometric
+  - Gompertz
+  - Nonlinear Regression
+  - Growth Law
+
 license: BSD-2-Clause
